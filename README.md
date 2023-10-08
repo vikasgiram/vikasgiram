@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Vicky and I'm a Cyber Security Student, from GH Raisoni College of Engineering and Managment Pune</h2>
 
 ###
 
